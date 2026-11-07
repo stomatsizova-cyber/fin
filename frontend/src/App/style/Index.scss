@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    // height: inherit;
+}
+body {
+    height: 100vh;
+    // width: 100%;
+}
+.app {
+    display: flex;
+    .body {
+        width: 100%;
+    }
+}
