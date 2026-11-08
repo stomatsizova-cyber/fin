@@ -1,4 +1,9 @@
-* {
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
     font-family: Arial, Helvetica, sans-serif;
     // height: inherit;
 }
@@ -11,4 +16,4 @@ body {
     .body {
         width: 100%;
     }
-}
+} */
